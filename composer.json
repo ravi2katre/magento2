@@ -271,7 +271,12 @@
         "components/jqueryui": "1.10.4",
         "twbs/bootstrap": "3.1.0",
         "tinymce/tinymce": "3.4.7",
-        "magento/module-tinymce-3": "*"
+        "magento/module-tinymce-3": "*",
+        "magento/module-catalog-sample-data": "*",
+        "magento/module-configurable-sample-data": "*",
+        "magento/module-cms-sample-data": "*",
+        "magento/module-sales-sample-data": "*"
+
     },
     "conflict": {
         "gene/bluefoot": "*"

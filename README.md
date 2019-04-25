@@ -1,3 +1,23 @@
+c104e95255be296c41e1533c470ffc21
+
+
+Username:
+admin
+Email:
+rkatre@tiuconsulting.com
+Password:
+******
+Your Store Address:
+http://magento2.localhost/
+Magento Admin Address:
+http://magento2.localhost/admin/
+Be sure to bookmark your unique URL and record it offline.
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/magento/magento2.svg?branch=2.3-develop)](https://travis-ci.org/magento/magento2)
 [![Open Source Helpers](https://www.codetriage.com/magento/magento2/badges/users.svg)](https://www.codetriage.com/magento/magento2)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magento/magento2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
