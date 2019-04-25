@@ -79,7 +79,11 @@
         "zendframework/zend-text": "^2.6.0",
         "zendframework/zend-uri": "^2.5.1",
         "zendframework/zend-validator": "^2.6.0",
-        "zendframework/zend-view": "~2.10.0"
+        "zendframework/zend-view": "~2.10.0",
+        "magento/module-catalog-sample-data": "2.3.1",
+        "magento/module-configurable-sample-data": "2.3.1",
+        "magento/module-cms-sample-data": "2.3.1",
+        "magento/module-sales-sample-data": "2.3.1"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "~1.2.0",
@@ -271,11 +275,8 @@
         "components/jqueryui": "1.10.4",
         "twbs/bootstrap": "3.1.0",
         "tinymce/tinymce": "3.4.7",
-        "magento/module-tinymce-3": "*",
-        "magento/module-catalog-sample-data": "*",
-        "magento/module-configurable-sample-data": "*",
-        "magento/module-cms-sample-data": "*",
-        "magento/module-sales-sample-data": "*"
+        "magento/module-tinymce-3": "*"
+
 
     },
     "conflict": {
